@@ -1,9 +1,26 @@
-# DWM-LAB
-This repository houses all the assignments for the Data Warehousing and Mining Lab course. The tasks primarily cover key concepts including ETL (Extract, Transform, Load), Data Preprocessing, OLAP Operations, and Data Transformation, utilizing Python and various library.
+# DWM-LAB — Data Warehousing & Mining Laboratory  
 
-# TECH STACK
-* Programming Language: Python
+Welcome to the Data Warehousing and Mining Lab repository! This collection includes all hands-on assignments designed to deepen your understanding of essential data engineering and mining concepts. You'll work with real-world data using Python, performing key tasks like ETL, data transformation, and OLAP operations.
 
-* Libraries: Pandas, NumPy
+# Overview  
 
-* Development Environment: Google Colab
+This lab introduces foundational techniques and tools used in the world of Data Warehousing and Mining, equipping you with the skills to manage, clean, and analyze data efficiently.
+
+# Covered Topics:
+* ETL (Extract, Transform, Load) Process
+* Data Preprocessing & Cleaning
+* OLAP Operations (Roll-up, Drill-down, Slice, Dice)
+* Data Transformation & Discretization
+* Exploratory Data Analysis (EDA)
+
+🛠️ Tech Stack
+
+* Programming Language-	Python
+* Libraries Used-	Pandas, NumPy
+* Environment-	Google Colab, Jupyter Notebook
+
+# Learning Outcomes  
+* Understand and build the ETL pipeline from scratch
+* Perform OLAP operations for multi-dimensional analysis
+* Handle missing data and perform data normalization
+* Transform raw data into meaningful insights using EDA techniques
