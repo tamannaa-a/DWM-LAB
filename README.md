@@ -13,7 +13,7 @@ This lab introduces foundational techniques and tools used in the world of Data 
 * Data Transformation & Discretization
 * Exploratory Data Analysis (EDA)
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * Programming Language-	Python
 * Libraries Used-	Pandas, NumPy
