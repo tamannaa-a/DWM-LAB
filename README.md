@@ -1,6 +1,6 @@
 # DWM-LAB — Data Warehousing & Mining Laboratory  
 
-Welcome to the Data Warehousing and Mining Lab repository! This collection includes all hands-on assignments designed to deepen understanding of essential data engineering and mining concepts. You'll work with real-world data using Python, performing key tasks like ETL, data transformation, and OLAP operations.
+Welcome to the Data Warehousing and Mining Lab repository! This collection includes all hands-on assignments designed to deepen understanding of essential data engineering and mining concepts. Working with real-world data using Python, performing key tasks like ETL, data transformation, and OLAP operations.
 
 # Overview  
 
